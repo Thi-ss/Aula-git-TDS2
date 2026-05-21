@@ -8,7 +8,7 @@ console.log(numero[2]);
 
 //Acessando o último elemento do array
 let animais = ['Cachorro', 'Gato', 'Pássaro', 'Peixe'];
-console.log(animais[4]);
+console.log(animais[3]);
 
 //Alterando um elemento do array
 let times = ['Flamengo', 'Palmeiras', 'São Paulo', 'Corinthians'];
@@ -38,5 +38,3 @@ console.log(cidades);
 let países = ['Brasil', 'Argentina', 'Chile'];
 países.unshift('Uruguai');
 console.log(países);
-
-//
