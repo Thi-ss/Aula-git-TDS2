@@ -38,3 +38,9 @@ console.log(cidades);
 let países = ['Brasil', 'Argentina', 'Chile'];
 países.unshift('Uruguai');
 console.log(países);
+
+//Mostrando todos os elementos do array com for
+let frutas = ['Maçã', 'Banana', 'Laranja', 'Uva'];
+for (let i = 0; i < frutas.length; i++) {
+    console.log(frutas[i]);
+}
